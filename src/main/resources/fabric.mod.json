@@ -1,22 +1,18 @@
 {
   "schemaVersion": 1,
-  "name": "Meteor Client",
-  "id": "meteor-client",
+  "name": "Chrome Client",
+  "id": "chrome-client",
   "version": "${version}",
-  "description": "Based utility mod.",
+  "description": "ChromeClient-Best utility mod.",
   "authors": [
-    "MineGame159",
-    "squidoodly",
-    "seasnail"
+    "???"
+    
   ],
   "contact": {
-    "homepage": "https://meteorclient.com",
-    "issues": "https://github.com/MeteorDevelopment/meteor-client/issues",
-    "sources": "https://github.com/MeteorDevelopment/meteor-client",
-    "discord": "https://meteorclient.com/discord"
+    "discord": "https://discord.gg/fxThaS2f"
   },
   "license": "GPL-3.0",
-  "icon": "assets/meteor-client/icon.png",
+  "icon": "https://www.shutterstock.com/image-vector/chrome-heart-logo-print-high-600nw-2489461273.jpg",
   "environment": "client",
   "entrypoints": {
     "client": [
